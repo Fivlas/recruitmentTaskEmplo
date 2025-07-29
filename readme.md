@@ -36,7 +36,7 @@ To run **exercise 1** execute this commands
   dotnet run
 ```
 
-To run nested `EmployeeManagementSystem` from **exercise 2-5** execute this commands
+To run `EmployeeManagementSystem` from **exercises 2-5** execute this commands
 
 ```bash
   cd EmployeeManagementSystem/EmployeeManagementSystem.Host
